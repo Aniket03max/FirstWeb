@@ -1,0 +1,133 @@
+.white{
+	color: #fff;
+} 
+
+.navbar-collapse .custom-nav li .active{
+	color: #000!important;
+	border-bottom: 2px solid #000;
+}
+.navbar-collapse .custom-nav li a:hover{
+	color: #000!important;
+	border-bottom: 2px solid #000;
+}
+
+
+.button {
+  background-color: black;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1em;
+}
+
+
+
+form{
+
+	background: rgba(255,255,255,0.7);
+	background: #808080;
+	padding: 1em;
+	color: #000;
+}
+
+label small{
+
+	color: #000;
+}
+
+.h5 {
+  text-align: center;
+}
+/*star rating*/
+.checked {
+  color: orange;
+}
+.readmore-btn{
+border-radius: absolute;
+background:black;
+color: white;
+}
+.dropdown-menu{
+	font-size:15px;
+}
+.form{
+	background-color: #f2f2f2;
+	padding: 12px 20px;
+	padding-top: 20px;
+}
+
+.form-control{
+	font-size:15px;
+	font color: black;
+	display: inline-block;
+	width: 100%;
+ 	padding: 14px 20px;
+  	margin: 8px 0;
+  	border: none;
+  	border-radius: 3px;
+ 
+}
+
+/*submitbtn*/
+.button{
+  width: 100%;
+  background-color: black;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+
+}
+.Manufacturer{
+	list-style-type:none;
+	
+}
+.Manufacturer li a{
+	color:black;
+	padding: 0px;
+}
+.Manufacturer li .active{
+	color: #000!important;
+	border-bottom: 2px solid #000;
+}
+.card-img{
+	
+	padding: 1em;
+}
+.card-title{
+	vertical-align: baseline;
+}
+.card-group{
+	width: 100%;
+	margin-top: 1em;
+	
+}
+.text{
+	color:#00008B;
+}
+
+
+
+
+
+/*@keyframes imscroll {
+  from{
+  	background-image: url('img/c4.jpg'); 
+  }
+  to{
+  	background-image: url('img/c3.jpg'); 
+  }
+}
+
+ 
+.img-scroll {
+	
+	color: #fff; 
+	object-fit: cover;
+  	animation-name: imscroll 4s infinite;
+  	animation-duration: 5s;
+}*/
+
+
+ 
